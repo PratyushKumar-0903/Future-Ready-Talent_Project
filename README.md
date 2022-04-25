@@ -18,7 +18,7 @@ IDE: VS-Code
 
 ## Industry :
 Health
-<br><br>
+
 
 ### Project Title :
 Health Website(Covid-Striker) with QnA Bot
