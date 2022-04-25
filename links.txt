@@ -1,0 +1,24 @@
+======== BOOTSTRAP 4.5 ==========
+https://getbootstrap.com/docs/4.5/getting-started/introduction/
+
+======== FONTAWESOME ==========
+https://fontawesome.com/
+https://fonts.google.com/
+
+======== CDN (FOR FONTAWESOME 5.10.0) ==========
+https://cdnjs.com/libraries/font-awesome/5.10.0
+
+======== UNSPLASH SOURCE (FOR GETTING RANDOM IMAGES) ==========
+https://source.unsplash.com/
+https://www.freepik.com/free-photos-vectors/logo
+https://www.pexels.com/
+https://www.freepngs.com/
+https://pngtree.com/so/covid
+https://snipstock.com/search?q=covid&category=
+
+======== GRADIENT COLOR (FOR GETTING CUSTOM GRADIENT COLORS IN BACKGROUND) ==========
+https://cssgradient.io/gradient-backgrounds/
+
+======== DATA SOURCE (FOR GETTING DATA REPORTS AND CHARTS) ==========
+https://public.flourish.studio/visualisation/1847791/
+https://flourish.studio/examples/
