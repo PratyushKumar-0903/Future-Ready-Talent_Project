@@ -78,4 +78,4 @@ Core Idea of Project is to build an sample prototype Health Website with QnA Bot
  
 # - Video
 
-[![Health Website with QnA Bot](https://img.youtube.com/vi/WBktcXI8-XY&ab_channel=PratyushKumar/0.jpg)](https://www.youtube.com/watch?v=WBktcXI8-XY&ab_channel=PratyushKumar)
+[![Health Website with QnA Bot](https://img.youtube.com/vi/WBktcXI8-XY/0.jpg)](https://www.youtube.com/watch?v=WBktcXI8-XY&ab_channel=PratyushKumar)
