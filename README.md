@@ -49,7 +49,11 @@ Core Idea of Project is to build an sample prototype Health Website with QnA Bot
 
 <a href="https://futurereadytalent.in/"><p align= "center"><img src="https://github.com/PratyushKumar-0903/Future-Ready-Talent_Project/blob/master/images/FRT.jpeg" width="700" height= "350"></p></a>  
 
-# SCREENSHOTS
+# Project Video Presentation
+
+[![Health Website with QnA Bot](https://img.youtube.com/vi/WBktcXI8-XY/0.jpg)](https://www.youtube.com/watch?v=WBktcXI8-XY&ab_channel=PratyushKumar) 
+ 
+ # SCREENSHOTS
 
 ### - Home Page
 
@@ -74,8 +78,4 @@ Core Idea of Project is to build an sample prototype Health Website with QnA Bot
 ### - About us 
 
 ![about](https://github.com/PratyushKumar-0903/Future-Ready-Talent_Project/blob/master/images/Screenshot%20(132).png)
- <br>
  
-# - Video
-
-[![Health Website with QnA Bot](https://img.youtube.com/vi/WBktcXI8-XY/0.jpg)](https://www.youtube.com/watch?v=WBktcXI8-XY&ab_channel=PratyushKumar)
