@@ -35,14 +35,14 @@ Core Idea of Project is to build an sample prototype Health Website with QnA Bot
 
 ## Azure Technology :
 
--<b>Primary Azure Technology :<b><br>
+- <b>Primary Azure Technology :<b><br>
 >Static Web App<br>
  >Azure Bot Service<br>
  >QnA Maker<br>
 >Web App Bot<br>
 
 
--Other Azure Technologies :<br>
+- Other Azure Technologies :<br>
 >App Service<br>
 
 <b>Project Link : </b>https://yellow-wave-0286d7c10.1.azurestaticapps.net/
@@ -51,32 +51,32 @@ Core Idea of Project is to build an sample prototype Health Website with QnA Bot
 
 # Project Video Presentation
 
- -CLICK ON THE THUMBNAIL (IMAGE) TO VIEW THE VIDEO <br>
+- `CLICK ON THE THUMBNAIL (IMAGE) TO VIEW THE VIDEO` <br><br>
 [![Health Website with QnA Bot](https://img.youtube.com/vi/WBktcXI8-XY/0.jpg)](https://www.youtube.com/watch?v=WBktcXI8-XY&ab_channel=PratyushKumar) <br>
  
  # SCREENSHOTS
 
-### - Home Page
+### Home Page
 
 ![home](https://github.com/PratyushKumar-0903/Future-Ready-Talent_Project/blob/master/images/Screenshot%20(117).png)
 
-### - QnA
+### QnA
 
 ![QnA](https://github.com/PratyushKumar-0903/Future-Ready-Talent_Project/blob/master/images/Screenshot%20(130).png)
 
-### - Prevention
+### Prevention
 
 ![Prevention](https://github.com/PratyushKumar-0903/Future-Ready-Talent_Project/blob/master/images/Screenshot%20(127).png)
 
-### - Symptoms
+### Symptoms
 
 ![symptoms](https://github.com/PratyushKumar-0903/Future-Ready-Talent_Project/blob/master/images/Screenshot%20(128).png)
 
-### - Report 
+### Report 
 
 ![report](https://github.com/PratyushKumar-0903/Future-Ready-Talent_Project/blob/master/images/Screenshot%20(129).png)
 
-### - About us 
+### About us 
 
 ![about](https://github.com/PratyushKumar-0903/Future-Ready-Talent_Project/blob/master/images/Screenshot%20(132).png)
  
